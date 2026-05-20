@@ -85,7 +85,7 @@ Analyzed bike-share usage patterns to uncover user behavior, popular routes, and
 Explored rental trends, store performance, and customer behavior using SQL queries and business analysis.
 
 🔗 Repository:  
-`Add Link Here`
+[View Project](https://github.com/Rozaay12/sql-rental-data-analysis)
 
 ---
 
