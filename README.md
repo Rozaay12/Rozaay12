@@ -75,7 +75,7 @@ Currently focused on strengthening:
 Analyzed bike-share usage patterns to uncover user behavior, popular routes, and travel trends.
 
 🔗 Repository:  
-`Add Link Here`
+[View Project](https://github.com/Rozaay12/udacity-bikeshare-data-analysis.git)
 
 ---
 
