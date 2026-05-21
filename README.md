@@ -1,27 +1,36 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
+
 <h3 align="center">
-Aspiring Data Analyst | Turning Data Into Insights Through SQL, Python & Visualization
+Aspiring Data Analyst | SQL • Python • Dashboards • Turning Data Into Business Insights
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Rozaay12">
-    <img src="https://komarev.com/ghpvc/?username=Rozaay12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+Currently building projects in SQL, Python, dashboards, and business analytics.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rozaay12&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m an aspiring **Data Analyst** currently completing the **Udacity Data Analyst Nanodegree**, building hands-on projects in:
+I’m an aspiring **Data Analyst** currently completing the **Udacity Data Analyst Nanodegree**, building hands-on projects involving:
 
-📊 Data Analysis  
-🐍 Python & Pandas  
-🗃 SQL Querying & Business Insights  
-📈 Dashboards & Visualization  
+📊 Data Analysis & Storytelling  
+
+🐍 Python (Pandas, NumPy)  
+
+🗃 SQL & Business Analytics  
+
+📈 Dashboards & Financial Analysis  
+
 📂 Git/GitHub Version Control  
 
-I enjoy uncovering patterns, exploring financial and business trends, and transforming raw data into actionable insights.
+📋 Excel • Google Sheets • Tableau (Learning)
+
+I enjoy uncovering patterns in data, exploring financial and business trends, and transforming raw information into actionable insights that support decision-making.
 
 Currently focused on strengthening:
 
@@ -29,7 +38,7 @@ Currently focused on strengthening:
 - Tableau
 - Data Storytelling
 - Dashboard Development
-- Real-world portfolio projects
+- Building real-world portfolio projects
 
 ---
 
@@ -69,53 +78,55 @@ Currently focused on strengthening:
 
 ## 📌 Featured Projects
 
-### 🚲 1. Bike Share Data Analysis
-**Tools:** Python • Pandas • NumPy
+### 🚲 Bike Share Data Analysis
 
-Analyzed bike-share usage patterns to uncover user behavior, popular routes, and travel trends.
+**Tools:** Python • Pandas • NumPy • Git
+
+Analyzed bike-share usage patterns to uncover rider behavior, popular routes, and travel trends.
 
 🔗 Repository:  
 [View Project](https://github.com/Rozaay12/udacity-bikeshare-data-analysis)
 
 ---
 
-### 🗃 2. SQL Rental Data Analysis
-**Tools:** SQL • PostgreSQL • Aggregations • Window Functions
+### 🗃 SQL Rental Data Analysis
 
-Explored rental trends, store performance, and customer behavior using SQL queries and business analysis.
+**Tools:** SQL • PostgreSQL • Window Functions • Aggregations
+
+Explored customer behavior, rental trends, and store performance using SQL queries and analytical techniques.
 
 🔗 Repository:  
 [View Project](https://github.com/Rozaay12/sql-rental-data-analysis)
 
 ---
 
-### 📊 3. Financial Dashboard / P&L Analysis
-**Tools:** Excel • Google Sheets • Pivot Tables • SUMIFS
+### 📊 E-Commerce Profit Dashboard Analysis
 
-Built dynamic dashboards to analyze financial performance and summarize business metrics.
+**Tools:** Excel • Google Sheets • Dashboards • Financial Analysis
+
+Built dashboards analyzing profitability trends, revenue growth, and financial performance to support business recommendations.
 
 🔗 Repository:  
 [View Project](https://github.com/Rozaay12/ecommerce-profit-analysis-dashboard)
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Rozaay12&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozaay12&layout=compact&theme=tokyonight"/>
+<img
+src="https://streak-stats.demolab.com?user=Rozaay12&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 ---
 
+
 ## 🎯 Career Goal
 
-Seeking opportunities to grow into an **Entry-Level Data Analyst** role where I can apply analytical thinking, SQL, Python, and dashboarding skills to solve real business problems.
+Seeking opportunities to grow into an **Entry-Level Data Analyst** role where I can apply SQL, Python, dashboards, and analytical thinking to solve real business problems.
 
 ---
 
@@ -124,11 +135,11 @@ Seeking opportunities to grow into an **Entry-Level Data Analyst** role where I 
 GitHub:  
 https://github.com/Rozaay12
 
-LinkedIn:  
-(Add LinkedIn Later)
-
 Email:  
-(Michael6081@hotmail.com)
+michael6081@hotmail.com
+
+LinkedIn:  
+(Add later)
 
 ---
 
