@@ -75,7 +75,7 @@ Currently focused on strengthening:
 Analyzed bike-share usage patterns to uncover user behavior, popular routes, and travel trends.
 
 🔗 Repository:  
-[View Project](https://github.com/Rozaay12/udacity-bikeshare-data-analysis.git)
+[View Project](https://github.com/Rozaay12/udacity-bikeshare-data-analysis)
 
 ---
 
@@ -95,7 +95,7 @@ Explored rental trends, store performance, and customer behavior using SQL queri
 Built dynamic dashboards to analyze financial performance and summarize business metrics.
 
 🔗 Repository:  
-[View Project](https://github.com/Rozaay12/ecommerce-profit-analysis-dashboard.git)
+[View Project](https://github.com/Rozaay12/ecommerce-profit-analysis-dashboard)
 
 ---
 
