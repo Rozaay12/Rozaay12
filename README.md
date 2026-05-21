@@ -95,7 +95,7 @@ Explored rental trends, store performance, and customer behavior using SQL queri
 Built dynamic dashboards to analyze financial performance and summarize business metrics.
 
 🔗 Repository:  
-`Add Link Here`
+[View Project](https://github.com/Rozaay12/ecommerce-profit-analysis-dashboard.git)
 
 ---
 
