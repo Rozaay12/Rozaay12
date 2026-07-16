@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL • Python • Dashboards • Turning Data Into Business Insights
+Aspiring Data Analyst | SQL • Python • Power BI • Tableau • Turning Data Into Business Insights
 </h3>
 
 <p align="center">
-Currently building projects in SQL, Python, dashboards, and business analytics.
+Transforming data into actionable insights through analytics, dashboards, and business intelligence.
 </p>
 
 <p align="center">
@@ -16,29 +16,41 @@ Currently building projects in SQL, Python, dashboards, and business analytics.
 
 ## 🚀 About Me
 
-I’m an aspiring **Data Analyst** currently completing the **Udacity Data Analyst Nanodegree**, building hands-on projects involving:
+I'm a **Data Analyst** with hands-on experience building projects in SQL, Python, Power BI, Tableau, Excel, and Google Sheets.
 
-📊 Data Analysis & Storytelling  
+My projects focus on cleaning data, analyzing business performance, developing dashboards, and communicating insights that support better decision-making.
 
-🐍 Python (Pandas, NumPy)  
+I enjoy solving business problems with data and continuously expanding my portfolio through practical analytics projects.
 
-🗃 SQL & Business Analytics  
 
-📈 Dashboards & Financial Analysis  
 
-📂 Git/GitHub Version Control  
 
-📋 Excel • Google Sheets • Tableau (Learning)
+📊 Data Analysis & Storytelling
+
+🐍 Python (Pandas, NumPy)
+
+🗃 SQL & Business Analytics
+
+📈 Power BI & Tableau Dashboards
+
+📂 Git/GitHub Version Control
+
+📋 Excel • Google Sheets
 
 I enjoy uncovering patterns in data, exploring financial and business trends, and transforming raw information into actionable insights that support decision-making.
 
-Currently focused on strengthening:
+## 💼 Core Competencies
 
-- Advanced SQL
-- Tableau
+- SQL Querying & Data Analysis
+- Python (Pandas, NumPy)
+- Power BI Dashboard Development
+- Tableau Data Visualization
+- Excel & Google Sheets
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
 - Data Storytelling
-- Dashboard Development
-- Building real-world portfolio projects
+- Financial & Business Analytics
+- Git & GitHub
 
 ---
 
@@ -57,7 +69,8 @@ Currently focused on strengthening:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets)
-![Tableau](https://img.shields.io/badge/Tableau-Learning-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -124,9 +137,9 @@ src="https://streak-stats.demolab.com?user=Rozaay12&theme=tokyonight&hide_border
 ---
 
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-Seeking opportunities to grow into an **Entry-Level Data Analyst** role where I can apply SQL, Python, dashboards, and analytical thinking to solve real business problems.
+Seeking opportunities as a **Data Analyst, Business Analyst, BI Analyst, Reporting Analyst, or Analytics Analyst**, where I can leverage SQL, Python, Power BI, Tableau, and data visualization to solve business problems and support data-driven decision-making.
 
 ---
 
