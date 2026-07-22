@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL • Python • Power BI • Tableau • Turning Data Into Business Insights
+Data Analyst | SQL • Python • Power BI • Tableau • Turning Data Into Business Insights
 </h3>
 
 <p align="center">
@@ -81,16 +81,33 @@ I enjoy uncovering patterns in data, exploring financial and business trends, an
 
 ---
 
-### Currently Learning
-
-![Statistics](https://img.shields.io/badge/Statistics-Learning-blue?style=for-the-badge)
-![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-Learning-green?style=for-the-badge)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-Learning-yellow?style=for-the-badge)
-
----
-
 ## 📌 Featured Projects
 
+### 📊 Power BI Retail Sales Dashboard
+
+**Tools:** Power BI • DAX • Power Query • Data Modeling • Business Intelligence
+
+Designed and developed an interactive retail sales dashboard that transforms transactional data into actionable business insights. The report features KPI tracking, customer behavior analysis, product performance, drill-through reporting, and AI-powered visuals to support data-driven decision-making.
+
+**Highlights:**
+
+- Interactive dashboard with multiple report pages
+
+- Relational data model (Fact & Dimension tables)
+
+- DAX measures and KPI development
+
+- Customer and product performance analysis
+
+- Drill-through reporting
+
+- AI visuals including Key Influencers and Decomposition Tree
+
+🔗 Repository:  
+
+https://github.com/Rozaay12/powerbi-retail-sales-dashboard
+
+---
 ### 🚲 Bike Share Data Analysis
 
 **Tools:** Python • Pandas • NumPy • Git
