@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Tableau</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Tableau • Excel</h3>
 
 <p align="center">Turning raw data into dashboards, insights, and decisions.</p>
 
