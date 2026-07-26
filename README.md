@@ -105,6 +105,6 @@ Seeking **Data Analyst / Business Analyst / BI Analyst** roles where I can use S
 
 ## 🤝 Connect
 
-📩 michael6081@hotmail.com &nbsp;·&nbsp; 💼 [LinkedIn](ADD-YOUR-LINKEDIN-URL) &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/Rozaay12)
+📩 michael6081@hotmail.com &nbsp;·&nbsp; 💼 [LinkedIn](www.linkedin.com/in/michael-jon-baptiste-b63001170) &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/Rozaay12)
 
 <p align="center">⭐ <em>Always learning. Always building.</em></p>
